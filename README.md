@@ -1,5 +1,6 @@
 # Calculadora-ResMat-Avalanca
-Esse é um código desenvolvido por mim; um projeto para a faculdade no qual o desafio era criar uma espécie de calculadora para vários parâmetros
+Esse é o primeiro código que desenvolvo totalmente sozinho; 
+um projeto para a faculdade no qual o desafio era criar uma espécie de calculadora para vários parâmetros
 utilizando conceitos de Resistência dos Materiais;
 
 Esse projeto não está finalizado, mas todas as funções disponíveis são funcionais.
